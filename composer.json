@@ -1,0 +1,17 @@
+{
+    "name": "shunpingqi/easylaravel",
+    "authors": [
+        {
+            "name": "cs686",
+            "email": "cs686@126.com"
+        }
+    ],
+    "require": {
+        "phpspec/phpspec": "^3.2"
+    },
+    "autoload":{
+        "psr-4":{
+            "Easylaravel\\":"src/Easylaravel"
+        }
+    }
+}
